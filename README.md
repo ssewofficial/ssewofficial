@@ -101,3 +101,13 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ssewofficial/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ssewofficial/ssewofficial/output/snake.svg" alt="Snake animation" />
+
+###
